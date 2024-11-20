@@ -24,8 +24,14 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 
 ![Screenshot](https://cdn.discordapp.com/attachments/889119613332381696/1308725824454787072/image.png?ex=673efd67&is=673dabe7&hm=09cfe926c402422f1af90d0f6dd01b2791a4be15671ab6b668a9c8f450a89d43&)
 
-- After this, you will able to see a file on your Explorer called `package.json`. It will just have the information o your software and all that are required for your Bot making.
-- Now get to `Terminal` again and then type `npm install discord.js` to get all the libraries from Discord themselves. After this, you will see another file appears in your explorer called `package-lock.json`.
+- After this, you will able to see a file called `package.json` in your Explorer. It will just have the information o your software and all that are required for your Bot making.
+- Now get to `Terminal` again and then type `npm install discord.js` to get all the libraries from Discord themselves. After this, you will see another file appears called `package-lock.json` and a folder called `node_module` in your Explorer.
 
 > [!WARNING]
-> Do not make any changes in any of these files unless you know what you are doing.
+> Do not make any changes in any of these files or folders unless you know what you are doing. It's better to leave those files untouched at all.
+
+- After that i suggest you to get ESLint library as a development dependency in your Node.js project. To get that, go to `Terminal` again and type `npm --save-dev eslint`.
+
+### Now here you go. Your `Visual Studio Code` is now ready for your Discord bot Development. Hope you find this helpful for your Discord bot Project!
+
+I will be uploading some files here that you can make for your bot. Some of them are necessary and some may not. So go through files and read their description to find out if you need those.
