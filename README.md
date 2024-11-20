@@ -11,8 +11,10 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 - Install your Node.js after downloading it.
 - Create a folder in your files and name it anything you like.
 - Then open your folder using `Visual Studio Code`
+
 > [!TIP]
 > You can open your folder directly in `Visual Studio Code`
+
 - Now open your `Terminal of your Visual Studio Code`.
 
 ![Terminal](https://cdn.discordapp.com/attachments/889119613332381696/1308723151257206825/image.png?ex=673efaea&is=673da96a&hm=c35f9092b7e3e82d03ef025c4198d0b1bdb04d1a2ee0eccb41411313b337892c&)
@@ -22,3 +24,8 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 
 ![Screenshot](https://cdn.discordapp.com/attachments/889119613332381696/1308725824454787072/image.png?ex=673efd67&is=673dabe7&hm=09cfe926c402422f1af90d0f6dd01b2791a4be15671ab6b668a9c8f450a89d43&)
 
+- After this, you will able to see a file on your Explorer called `package.json`. It will just have the information o your software and all that are required for your Bot making.
+- Now get to `Terminal` again and then type `npm install discord.js` to get all the libraries from Discord themselves. After this, you will see another file appears in your explorer called `package-lock.json`.
+
+> [!WARNING]
+> Do not make any changes in any of these files unless you know what you are doing.
