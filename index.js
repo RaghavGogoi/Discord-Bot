@@ -1,4 +1,5 @@
 // In Discord bot development, index.js is typically the entry point of your bot's code. It's the file where the bot initializes, connects to the Discord API, and listens for events such as messages, commands, or user interactions.
+
 require("dotenv").config();
 const fs = require("node:fs");
 const path = require("node:path");
