@@ -34,4 +34,4 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 
 ### Now here you go. Your `Visual Studio Code` is now ready for your Discord bot Development. Hope you find this helpful for your Discord bot Project!
 
-I will be uploading some files here that you can make for your bot. Some of them are necessary and some may not. So go through files and read their description to find out if you need those.
+I will be uploading some files here too, so that you can make for your bot. Some of them are necessary and some may not. So go through files and read their description to find out if you need those.
