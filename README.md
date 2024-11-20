@@ -6,9 +6,10 @@ My first project on Discord bot using node.js v14.
 
 # Steps to setup your Visual Studio Code.
 Here are the steps to setup your `Visual Studio` Code for bot making.
-- Download/Update your Visual Studio Code.
+- Download/Update your [Visual Studio Code](https://code.visualstudio.com).
 - Download [Node.js](https://nodejs.org/en).
 - Install your Node.js after downloading it.
 - Create a folder in your files and name it anything you like.
 - Then open your folder using `Visual Studio Code`
-  - You can open it directly in `Visual Studio Code`
+> [!TIP]
+> You can open it directly in `Visual Studio Code`
