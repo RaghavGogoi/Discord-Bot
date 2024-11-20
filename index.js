@@ -68,7 +68,7 @@ client.once('ready', () => {
                 type: 2 // You can change this to different activity types (0: Playing, 1: Streaming, 2: Listening, 3: Watching)
             }
         ],
-        status: 'dnd' // Change this to 'idle', 'dnd', or 'invisible' if desired
+        status: 'online' // Change this to 'idle', 'dnd', or 'invisible' if desired
     });
 });
 
