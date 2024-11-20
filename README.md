@@ -12,4 +12,5 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 - Create a folder in your files and name it anything you like.
 - Then open your folder using `Visual Studio Code`
 > [!TIP]
-> You can open it directly in `Visual Studio Code`
+> You can open your folder directly in `Visual Studio Code`
+- Now open your ![Terminal](https://cdn.discordapp.com/attachments/889119613332381696/1308723151257206825/image.png?ex=673efaea&is=673da96a&hm=c35f9092b7e3e82d03ef025c4198d0b1bdb04d1a2ee0eccb41411313b337892c&)
