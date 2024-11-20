@@ -6,4 +6,4 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 - Download/Update your Visual Studio Code.
 - Download [Node.js](https://nodejs.org/en).
 - Install your Node.js after downloading it.
-[x] Ok 
+- [x] Now its done
