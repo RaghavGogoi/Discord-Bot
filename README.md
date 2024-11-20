@@ -1,8 +1,8 @@
 # Discord-Bot
-My first project on Discord bot using node.js v14.
+My first project on Discord bot using node.js v14. In this project, I'll tell you how to make a Discord Bot, using Node.js for the Beginner.
 
 > [!NOTE]
-> Some code **may** not work properly in future as the update comes. So please make sure to check codes and updates from official sites.
+> Some code **may** not work properly in future as the update comes. So please make sure to check codes and updates from official sites. Also, keep in mind that I'm using Visual Studio Code for this project. If you want to use external application such as [replit.com](https://replit.com/), etc. you can ignore some of these steps from here. But I suggest you to start your project in `Visual Studio Code` only.
 
 # Steps to setup your Visual Studio Code.
 Here are the steps to setup your `Visual Studio` Code for bot making.
