@@ -31,6 +31,7 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 > Do not make any changes in any of these files or folders unless you know what you are doing. It's better to leave those files untouched at all.
 
 - After that i suggest you to get ESLint library as a development dependency in your Node.js project. To get that, go to `Terminal` again and type `npm --save-dev eslint`.
+- Now the last command you need to type in `Terminal` is `npm install dotenv`. This is very essential command since you need your Discord bot Token or any other secret values to be stored in a file and use their values.
 
 ### Now here you go. Your `Visual Studio Code` is now ready for your Discord bot Development. Hope you find this helpful for your Discord bot Project!
 
