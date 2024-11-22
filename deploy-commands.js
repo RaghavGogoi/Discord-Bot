@@ -1,5 +1,4 @@
 // is typically a script used to register or deploy application commands (e.g., slash commands) to Discord. It allows you to programmatically inform Discord of the commands your bot can handle.
-
 // Starting with Discord.js v13 and beyond, slash commands must be registered with Discord's API, either globally (available in all servers) or for specific guilds (servers). This script automates that registration process.
 
 require("dotenv").config();
