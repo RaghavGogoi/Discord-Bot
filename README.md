@@ -22,7 +22,7 @@ Here are the steps to setup your `Visual Studio` Code for bot making.
 - Now inside `Terminal`, type `npm init` and then press Enter.
 - Then you will see something like in the following image. After that, press Enter again and then after that you can type `clear` in `Terminal` to remove all logs from the `Terminal`.
 
-![Screenshot](https://cdn.discordapp.com/attachments/889119613332381696/1308725824454787072/image.png?ex=673efd67&is=673dabe7&hm=09cfe926c402422f1af90d0f6dd01b2791a4be15671ab6b668a9c8f450a89d43&)
+![Screenshot](https://cdn.discordapp.com/attachments/889119613332381696/1308725824454787072/image.png?ex=67595b67&is=675809e7&hm=b1e9c871192949fa2343f110c6a7f7a1f8ac1d7bcec50b08be6c5081dd2dd028&)
 
 - After this, you will able to see a file called `package.json` in your Explorer. It will just have the information of your software and all that are required for your Bot making.
 - Now get to `Terminal` again and then type `npm install discord.js` to get all the libraries from Discord themselves. After this, you will see another file appears called `package-lock.json` and a folder called `node_module` in your Explorer.
